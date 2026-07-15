@@ -68,9 +68,9 @@ This project uses a dual license:
 
 ## 👤 Author
 
-** K A D Yasandu Kethmika**
+**K A D Yasandu Kethmika**
 
-🎓 B.Sc. Computer Science & Engineering (UG), University of Moratuwa
+🎓 B.Sc.(Hons.) Computer Science & Engineering (UG), University of Moratuwa
 
 
 🔗 GitHub: [@Kethmika2004](https://github.com/Kethmika2004)
